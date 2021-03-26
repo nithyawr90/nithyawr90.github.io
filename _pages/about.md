@@ -12,7 +12,7 @@ I am a System Validation Engineer at Texas Instruments working on type-C power d
 
 More About Me
 ------
-//Add more about yourself here
+//Add more about yourself here     
 // Education, Previous work, Academic Interests, Hobbies
 
 
