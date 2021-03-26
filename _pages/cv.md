@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 
-[**\[DOWNLOAD PDF CV\]**](https://nithyawr90.github.io/files/Nithya-Resume 2.pdf)  _(Updated Mar'21)_
+[**\[DOWNLOAD PDF CV\]**](https://nithyawr90.github.io/files/nithya_resume.pdf)  _(Updated Mar'21)_
 {% include base_path %}
 
 Research Interests
 ------------------
-Computer Architecture \| High Performance Computing \| Hardware Security \| Operating Systems \| Machine Learning applications in Computer Architecture
+Computer Architecture \| High Performance Computing \| Memory Systems \| Signal Processing \| Hardware Design and Optimization
 
 
 Education
@@ -65,23 +65,6 @@ Research Experience
 Skills
 -------
 Computer Architecture \| ARM Assembly Programming \| C \| Python \| VLSI Design \| Digital circuits \| Operating Systems \| Nanoelectronics \| Electronic Materials
-
-Publications
--------------
-
-1. **A. Kar**, S. Dey, D. Burman, S. Santra and P. K. Guha, ”RGO/Ni2O3 Heterojunction-Based Reusable, Flexible Device for Cr(VI) Ion Detection in Water,” in IEEE Transactions on Electron Devices, vol. 68, no. 2, pp. 780-785, Feb. 2021, doi: 10.1109/TED.2020.3045954 [**\[PAPER\]**](https://ieeexplore.ieee.org/document/9316254)
-
-Presentations
--------------
-1. **A.Kar**, S.Dey, S. Santra, S.Ray and P.K. Guha, ”RGO/Ni2O3 composite as a multifunctional material for efficient water quality monitoring, EMRS Spring Meet,2017 (oral presentation only, no paper)
-
-Academic Achievements
----------------------
-_2019_ \| Recognized by the Intel Thunderbolt team in Oregon for contribution to the SoC power-on activities   
-_2017_ \| Chennupati and Vidya Jagadish Endowment for research at the Australian National University   
-_2014_ \| National Initiative for Undergraduate Sciences (NIUS) Physics scholar   
-_2013_ \| Among 12 students from the state of Gujarat selected for the Indian National Physics Olympiad   
-_2009_ \| Duke University Talent Identification Program scholar (course: Java for Video Games)   
 
 
 <!---
