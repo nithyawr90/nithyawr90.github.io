@@ -25,7 +25,7 @@ Education
 	M.Tech in Digital Electronics and Advanced Communication _(2015)_  
 	_GPA : 7.86/10_    
 * **GBTU - Uttar Pradesh** \| _India_  
-	B.Tech in Electronics and Communication_(2011)_  
+	B.Tech in Electronics and Communication _(2011)_  
 	_Percentage: 68.4%_ 
   
   
