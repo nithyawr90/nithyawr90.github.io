@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[**\[DOWNLOAD PDF CV\]**](https://anuragkar09.github.io/files/anurag_resume.pdf)  _(Updated Mar'21)_
+[**\[DOWNLOAD PDF CV\]**](https://nithyawr90.github.io/files/Nithya-Resume 2.pdf)  _(Updated Mar'21)_
 {% include base_path %}
 
 Research Interests
