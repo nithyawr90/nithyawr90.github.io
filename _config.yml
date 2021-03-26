@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Nithya Sampath"
   avatar           : "profile.png"
-  bio              : "System Validation Engineer at Texas Instrumnents \nIncoming MS in ECE student at Portland State University"
+  bio              : "System Validation Engineer at Texas Instrumnents and Incoming MS in ECE student at Portland State University"
   location         : "Bangalore"
-  employer         :
+  employer         : "Texas Instruments"
   pubmed           : 
   googlescholar    : 
   email            : "nithyawr90@gmail.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
